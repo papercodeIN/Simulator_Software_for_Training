@@ -1,1 +1,1 @@
-# KEPServerEX_Training_Software
+# Industrial Protocol Simulator and Client Software for Trainign and Learning

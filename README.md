@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=platima.sbcimages" height="20" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.Simulator_Software_for_Training" height="20" />
 
 # Industrial Protocol Simulator and Client Software for Training and Learning
 

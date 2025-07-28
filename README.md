@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=platima.sbcimages" height="20" />
+
 # Industrial Protocol Simulator and Client Software for Training and Learning
 
 ```
